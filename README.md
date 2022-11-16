@@ -14,6 +14,8 @@ So to start off I want to see how many games are categorized into each category 
 So in my sample I can see that there is more Action games then there are any other. That tells me to expect my violin to be wider then say the Racing games.
 ### Answering the Question
 
+Since I only have 1000 apps worth of data my results are not necessarily representative of all the apps on Steam as a whole. To get more representative results I would gather a greater sample size.
+
 ![Violin Graph for Rating Distribution](./Assets/Rating_distribution_by_category.jpg)
 
 First off I can see that Free-To-Play games are not recommended to others to play very much. The top recommended game still does not reach as high as all other categories. So if you wanted to make a game that others would recommend to others to try you should not make it free-to-play. Role playing games (RPG) have a game that is the highest recommended and most have higher recommendations than the median recommendations. So there are not as many in my sample so it is not as saturated in the market as some other categories like Free-to-play for example. 
